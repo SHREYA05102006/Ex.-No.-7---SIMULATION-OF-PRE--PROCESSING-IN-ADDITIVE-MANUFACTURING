@@ -39,11 +39,10 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![image](https://github.com/user-attachments/assets/093453e1-ef63-449f-aecb-dab401627bcd)
+![image](https://github.com/user-attachments/assets/86b7de34-a31a-4443-88fe-00e837d67981)
+![image](https://github.com/user-attachments/assets/4cc3cf6b-c5e5-4517-84c3-fa5e92506807)
 
-## Output:
 ![image](https://github.com/user-attachments/assets/f517dbbe-227b-4041-b780-5a6c2f51c932)
 
 ### Name:V.Shreya
